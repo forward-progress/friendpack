@@ -66,6 +66,11 @@ hash = "e0d6530d40d3da9b8909c015e64c921ca7bc2541d53d9539bf6d3099d34aa51a"
 metafile = true
 
 [[files]]
+file = "mods/cull-less-leaves.pw.toml"
+hash = "f103f2600d5c7c0c468cc2576803751f0227c68dc2bdbf693606452f3887b540"
+metafile = true
+
+[[files]]
 file = "mods/dashloader.pw.toml"
 hash = "0fb34c3b9433f37dca79aee80937a95772d846c8110b419b2ca659b660fc971d"
 metafile = true
@@ -73,6 +78,11 @@ metafile = true
 [[files]]
 file = "mods/dawn.pw.toml"
 hash = "4319357e42e227de4a456c77953609e2e32cc2cd6558777a441b586c0cfe4839"
+metafile = true
+
+[[files]]
+file = "mods/deathlog.pw.toml"
+hash = "ee040b13b9c9e71e09803d16e48527ac47465d9b1a30185c44c933a2e2243403"
 metafile = true
 
 [[files]]
@@ -88,6 +98,16 @@ metafile = true
 [[files]]
 file = "mods/eden-ring.pw.toml"
 hash = "1c47ba84c4808eabeff86ebaae0a09a0103266135330ff740be35348a6aa5f19"
+metafile = true
+
+[[files]]
+file = "mods/extended-drawers.pw.toml"
+hash = "0b5fd420a7f1cb3022d7fdbe7a8e503c0382f7fd457b90b12cbfe22d1a18a69d"
+metafile = true
+
+[[files]]
+file = "mods/extra-generators.pw.toml"
+hash = "4879d741d36a0dc1689ed021a970a8914eb9a5859023668eab72be6c167d20d6"
 metafile = true
 
 [[files]]
@@ -108,6 +128,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port-fabric.pw.toml"
 hash = "4d2911ace7454364aec1b496a976cbee02ee8f2d254bf83a9c1af05c5e90eda9"
+metafile = true
+
+[[files]]
+file = "mods/forgetmechunk.pw.toml"
+hash = "bd8c6d669b805accb1d4936edaf9b4890492dacdaca20dfebaacbeeca93d0f8d"
 metafile = true
 
 [[files]]
@@ -136,6 +161,11 @@ hash = "fec143d68112c0260e4964f50aad541afde432252cd3f748d4046267af558e67"
 metafile = true
 
 [[files]]
+file = "mods/ironchest.pw.toml"
+hash = "edde45dc6a925e0372e110f18d65fc346197d9c6d165c81bb5e974473e7aa9b2"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "e4c2ce1b2082e8d25ecd80b4a7bcc46917c95b094180171291f89da0b023632b"
 metafile = true
@@ -161,6 +191,11 @@ hash = "b5b47d70b94e6519b798ce3f172339bba1413ee64cb08c4f0559d0d83b38bed3"
 metafile = true
 
 [[files]]
+file = "mods/modern-industrialization.pw.toml"
+hash = "97f44c609c38f831641231fac1b5cfa629a47da7ad87e5d0239a8b29179626ed"
+metafile = true
+
+[[files]]
 file = "mods/mouse-wheelie.pw.toml"
 hash = "32ab4cf00cde6b04c1a699789487ba55913bdd41ea46bb45748a6373e1fc9b29"
 metafile = true
@@ -168,6 +203,11 @@ metafile = true
 [[files]]
 file = "mods/phosphor.pw.toml"
 hash = "c3d3973ca1e942ea42f9d14c64eceaa835e4f969fe95d6838701db8d56790c71"
+metafile = true
+
+[[files]]
+file = "mods/purpeille.pw.toml"
+hash = "0da9aa0289aa3c657d016977b00a241ce1102e054055ada246163f4748050c0a"
 metafile = true
 
 [[files]]
@@ -233,6 +273,11 @@ metafile = true
 [[files]]
 file = "mods/sort.pw.toml"
 hash = "2df321a06a4df260d1b6dd3651e08a59b3760bdefba27387bcf7e2965ad2b978"
+metafile = true
+
+[[files]]
+file = "mods/soulbound.pw.toml"
+hash = "de5622a091a4096a4a2d05543e08e193f54a287bfaa3dbbf81564d40ff6a870e"
 metafile = true
 
 [[files]]
