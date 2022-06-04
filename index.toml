@@ -16,11 +16,6 @@ hash = "1ec5c09edc8d27af569ef4e087f1e74cf175e43de0172316a1fffd28290d1bd9"
 metafile = true
 
 [[files]]
-file = "mods/bclib.pw.toml"
-hash = "2f5ef6eda6aa829f6fc70cc4d16da89acebc933709d666fd382d848c841b6c86"
-metafile = true
-
-[[files]]
 file = "mods/bits-and-chisels.pw.toml"
 hash = "70e8a3ae81acad3f2e01857633cef5ebc9926dc6bef26a892af5658d70f5d770"
 metafile = true
@@ -93,11 +88,6 @@ metafile = true
 [[files]]
 file = "mods/easy-magic-fabric.pw.toml"
 hash = "b424b395ca00386cc0a5f75845e67c0798c06dad8b3c405d72d2cc5a3c0d9b08"
-metafile = true
-
-[[files]]
-file = "mods/eden-ring.pw.toml"
-hash = "1c47ba84c4808eabeff86ebaae0a09a0103266135330ff740be35348a6aa5f19"
 metafile = true
 
 [[files]]
