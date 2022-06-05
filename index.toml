@@ -17,7 +17,12 @@ metafile = true
 
 [[files]]
 file = "mods/bits-and-chisels.pw.toml"
-hash = "70e8a3ae81acad3f2e01857633cef5ebc9926dc6bef26a892af5658d70f5d770"
+hash = "5555f1bd8b5954e6f5306a348459d0fea9c7c8eee73351dc4f56361c25200ad4"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "7d271dfe7ba52243602bfe6fb74c5a3c5f7156142bb5aa24c21db1ce62aba30f"
 metafile = true
 
 [[files]]
@@ -52,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "85ddcfb16aa129ae2cc12343b533ea0e6feb3257869af25c4b2ca9adc08c9605"
+hash = "3816ff9883e6d76e6cee8daa4f1b3d3e0e4f0abc605457c62ba81791e4ace394"
 metafile = true
 
 [[files]]
@@ -78,11 +83,6 @@ metafile = true
 [[files]]
 file = "mods/deathlog.pw.toml"
 hash = "ee040b13b9c9e71e09803d16e48527ac47465d9b1a30185c44c933a2e2243403"
-metafile = true
-
-[[files]]
-file = "mods/dimensionaldoors.pw.toml"
-hash = "15b2ef7719630be3af98316243f03b33529ce65caeb614bc11cb1e0b58763e0e"
 metafile = true
 
 [[files]]
@@ -166,6 +166,11 @@ hash = "ded057bbb3ab2991addbf96e472df8efa7434c3060f65f6e4d95491c488e659c"
 metafile = true
 
 [[files]]
+file = "mods/light-overlay.pw.toml"
+hash = "17b0e44b0b415420e5b99252e1a5f2c7e951a16eac2ba12ae63e99d98012cca0"
+metafile = true
+
+[[files]]
 file = "mods/litematica.pw.toml"
 hash = "4e7136bf019c6d6333acc30e0a57133c1f23d1585b6c15b9f7a3011beca81247"
 metafile = true
@@ -186,18 +191,18 @@ hash = "97f44c609c38f831641231fac1b5cfa629a47da7ad87e5d0239a8b29179626ed"
 metafile = true
 
 [[files]]
+file = "mods/modmenu.pw.toml"
+hash = "6dc27377674c79509779c7b17d7db80748d9636c5d639b0e5f67f90b45f1a8e5"
+metafile = true
+
+[[files]]
 file = "mods/mouse-wheelie.pw.toml"
 hash = "32ab4cf00cde6b04c1a699789487ba55913bdd41ea46bb45748a6373e1fc9b29"
 metafile = true
 
 [[files]]
-file = "mods/phosphor.pw.toml"
-hash = "c3d3973ca1e942ea42f9d14c64eceaa835e4f969fe95d6838701db8d56790c71"
-metafile = true
-
-[[files]]
 file = "mods/purpeille.pw.toml"
-hash = "0da9aa0289aa3c657d016977b00a241ce1102e054055ada246163f4748050c0a"
+hash = "f6686fc9bcc571db2ee5eed32803de4173a50c408c5f40d75f5b3071f8252ef2"
 metafile = true
 
 [[files]]
@@ -212,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/quartz-elevator.pw.toml"
-hash = "048b00428a08ad6fe070ea53696ebbde73c438ab880c7846b9be7055a181ad50"
+hash = "438eb3835101279ea5c01cf042bdaa493e5f7d3b1569c29dbf68d6197dedbcd5"
 metafile = true
 
 [[files]]
@@ -227,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "2d34728267efdf73da2f3f844e9e577b7939ab508e56c44c267613406c541826"
+hash = "ceb2e3aef3707deb09ecacee8af38fe2b45b4f33af91f06384144d81c343cfdf"
 metafile = true
 
 [[files]]
@@ -241,6 +246,11 @@ hash = "d5b6ecde4992d8515c9fd1b2ede3b03f6fae320eb1e91c1607fd94dd58f10c1a"
 metafile = true
 
 [[files]]
+file = "mods/servercore.pw.toml"
+hash = "e7b64de06dde25be29d0be87410efed550643b37298033cdf1273548e19022d7"
+metafile = true
+
+[[files]]
 file = "mods/simple-backpack-fabric.pw.toml"
 hash = "66ea762ba483e8f06ed473f1e80544ea2d682eda7df951e042c649a9cd8c85a3"
 metafile = true
@@ -248,6 +258,11 @@ metafile = true
 [[files]]
 file = "mods/simple-veinminer.pw.toml"
 hash = "0b9c3eb0e2bbd2eed6b6638da4db9f397e6e0c3140228fbacb2dcfb27fb7473a"
+metafile = true
+
+[[files]]
+file = "mods/sleep-warp.pw.toml"
+hash = "1976bfff222eb4bfa70f159937e809d51887e9a15b26ff9528ec3ed8998c7c1e"
 metafile = true
 
 [[files]]
@@ -273,6 +288,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "2140367d53fc14e3223ffed3802bd3a0c6548208458e0dd4aecd040d8b04cf4e"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "b51973797d0cc8b656e71b85c4a2143995a4bb599181453ef9b0e7e6e3de549f"
 metafile = true
 
 [[files]]

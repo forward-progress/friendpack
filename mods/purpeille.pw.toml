@@ -1,14 +1,14 @@
 name = "Purpeille"
-filename = "purpeille-2.2.2.jar"
+filename = "purpeille-2.3.0-quilt.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/yoEkK5RL/versions/2.2.2/purpeille-2.2.2.jar"
+url = "https://cdn.modrinth.com/data/yoEkK5RL/versions/2.3.0-quilt/purpeille-2.3.0-quilt.jar"
 hash-format = "sha1"
-hash = "cd894949efb531980bf7e71afc3c463f71ea1187"
+hash = "e821eb9c7d95b534d975652712a6f596db467adc"
 mode = ""
 
 [update]
 [update.modrinth]
 mod-id = "yoEkK5RL"
-version = "xBAJ5WkR"
+version = "ayKj70Ct"
