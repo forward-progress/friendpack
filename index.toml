@@ -469,11 +469,6 @@ hash = "9478e627eb307c5d2a6fdb904add4c483870058d395f08f7ece42998797e2c52"
 metafile = true
 
 [[files]]
-file = "mods/the-twilight-forest.pw.toml"
-hash = "64570ded33c415f92047ccf2a746d505c9bdd73e971e66406047398489f40ec4"
-metafile = true
-
-[[files]]
 file = "mods/trinkets.pw.toml"
 hash = "4e8c0ff9e26efaed02012b22b6c75768a0ff03cc969f7050e0eddf0548948f5f"
 metafile = true
