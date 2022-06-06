@@ -134,11 +134,6 @@ hash = "3816ff9883e6d76e6cee8daa4f1b3d3e0e4f0abc605457c62ba81791e4ace394"
 metafile = true
 
 [[files]]
-file = "mods/createaddition.pw.toml"
-hash = "e6296824efedc26529ffde9c9f462b9d2c397de447b8a8827724863ffe3654d3"
-metafile = true
-
-[[files]]
 file = "mods/createplus.pw.toml"
 hash = "e0d6530d40d3da9b8909c015e64c921ca7bc2541d53d9539bf6d3099d34aa51a"
 metafile = true
