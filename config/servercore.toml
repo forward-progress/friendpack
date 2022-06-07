@@ -35,9 +35,9 @@
 	# (Default = false) Enables this feature.
 	enabled = true
 	# (Default = 35) The average MSPT to target.
-	target_mspt = 35
+	target_mspt = 43
 	# (Default = 15) The amount of seconds between dynamic performance updates.
-	update_rate = 15
+	update_rate = 10
 	# (Default = 150) The amount of seconds between dynamic viewdistance updates.
 	# This value is separate from the other checks because it makes all clients reload their chunks.
 	view_distance_update_rate = 150

@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "Friend Pack-0.2.2.mrpack.sig"
+hash = "3f18e1b1fe523da5cccc5791b6c41b6d918ca403af47fb260e2f16a7b567aaed"
+
+[[files]]
+file = "Friend Pack-0.2.2.zip.sig"
+hash = "aaed03b6197fd6d2973de9363d6441e8ec7931944ef8de39e6b7ac6e3ad41db7"
+
+[[files]]
 file = "config/c2me-compat.toml"
 hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
 
@@ -14,7 +22,7 @@ hash = "c0a604412e333d77bd4a877089ef610b2e339558815417fd5b05e123e034cf0a"
 
 [[files]]
 file = "config/servercore.toml"
-hash = "efe9ee0c3a6dea66733d08d0661f9970d30c5ed244c0d0b08e1e15e18bc56788"
+hash = "f80656ff660f32ad1f64275345c33c3c791e6a603862850f994945db28819fda"
 
 [[files]]
 file = "config/simple_veinminer.conf"
