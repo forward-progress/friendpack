@@ -7,7 +7,7 @@
 	   Time between automatic backups in seconds
 	   When set to 0 backups will not be performed automatically
 	*/
-	"backupInterval": 7200,
+	"backupInterval":10800,
 	/* 
 	   Delay in seconds between typing-in /backup restore and it actually starting
 	*/
@@ -40,7 +40,7 @@
 	/* 
 	   Maximum number of backups to keep. If set to 0 then no backup will be deleted based their amount
 	*/
-	"backupsToKeep": 24,
+	"backupsToKeep": 10,
 	/* 
 	   Maximum age of backups to keep in seconds.
 	    If set to 0 then backups will not be deleted based their age 
