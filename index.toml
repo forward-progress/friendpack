@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "Friend Pack-0.2.2.mrpack.sig"
-hash = "3f18e1b1fe523da5cccc5791b6c41b6d918ca403af47fb260e2f16a7b567aaed"
-
-[[files]]
-file = "Friend Pack-0.2.2.zip.sig"
-hash = "aaed03b6197fd6d2973de9363d6441e8ec7931944ef8de39e6b7ac6e3ad41db7"
-
-[[files]]
 file = "config/c2me-compat.toml"
 hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
 
@@ -34,7 +26,7 @@ hash = "25eda5edb46ca2b51652feeda7fbaeb3311569e37b86e51eb3635d6782cbffbc"
 
 [[files]]
 file = "config/textile_backup.json5"
-hash = "2d68920634138d025064eb0ca51fb77641629c496781d8a1c673241fa8cfe626"
+hash = "eae6a26d2d2aa16f57c0c235d6c9272f272dc403f3289dde0daeaf0e06fb362f"
 
 [[files]]
 file = "mods/addadd.pw.toml"
@@ -69,11 +61,6 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "1ec5c09edc8d27af569ef4e087f1e74cf175e43de0172316a1fffd28290d1bd9"
-metafile = true
-
-[[files]]
-file = "mods/autoswitch.pw.toml"
-hash = "8744b2d5ff82e72cf8fe74c1af7f89fa861746705da6d90d306503156e0ec768"
 metafile = true
 
 [[files]]
@@ -138,7 +125,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "3816ff9883e6d76e6cee8daa4f1b3d3e0e4f0abc605457c62ba81791e4ace394"
+hash = "64552c2dc46da34272e9b48e3fd294577f16da2570917caa9fc06ab7f848fb6c"
 metafile = true
 
 [[files]]
@@ -163,7 +150,7 @@ metafile = true
 
 [[files]]
 file = "mods/dashloader.pw.toml"
-hash = "0fb34c3b9433f37dca79aee80937a95772d846c8110b419b2ca659b660fc971d"
+hash = "109c382c059eb524502143d9271ce79a2e7f9f5b9cd634780687b718bfd025f7"
 metafile = true
 
 [[files]]
@@ -248,7 +235,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "fec143d68112c0260e4964f50aad541afde432252cd3f748d4046267af558e67"
+hash = "7586317e8f493545d692287fb8b5e8a6027772b529d6e2d9ba97c7c09c64b26f"
 metafile = true
 
 [[files]]
@@ -258,7 +245,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "e4c2ce1b2082e8d25ecd80b4a7bcc46917c95b094180171291f89da0b023632b"
+hash = "18f7bead679737b3df1fba8fcb84ed5392cb6ff1f4d06af0b7268bca9ed573ee"
 metafile = true
 
 [[files]]
@@ -368,7 +355,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "b62d450c909c7edb4b677b6ffff2f9f582db060bd7b457d7a59490547750df71"
+hash = "d714f6e72ebc849970b4c28384ed68f95624f497ea39d18b92e3e79251cbf659"
 metafile = true
 
 [[files]]
@@ -413,7 +400,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "8a2f7bd4e0b892213e121ace77cbe399351a8c9d1ce12a8dc13973d9ec7a50dc"
+hash = "dd3572a0414b6d647f18d4571a8007f0f93ebd7092d08aefa194861878a42c6f"
 metafile = true
 
 [[files]]

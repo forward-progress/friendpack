@@ -1,3 +1,6 @@
 .nojekyll
 statics/
 README.md
+*.sig
+*.zip
+*.mrpack
