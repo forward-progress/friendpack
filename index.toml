@@ -249,6 +249,11 @@ hash = "18f7bead679737b3df1fba8fcb84ed5392cb6ff1f4d06af0b7268bca9ed573ee"
 metafile = true
 
 [[files]]
+file = "mods/lambdabettergrass.pw.toml"
+hash = "6c23d726c5512cc285114ee243192dab6ddf39135f273e1fa8e1aec6b0df80d3"
+metafile = true
+
+[[files]]
 file = "mods/lanterns-bow.pw.toml"
 hash = "f0dc9a4a22da8822876e844f9d88fa88938e2b7427a919e01f09b13542102b80"
 metafile = true
