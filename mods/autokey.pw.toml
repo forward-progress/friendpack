@@ -1,0 +1,14 @@
+name = "Autokey"
+filename = "autokey-0.9.1+1.18.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Km5xH0YL/versions/0.9.1+1.18.2/autokey-0.9.1%2B1.18.2.jar"
+hash-format = "sha1"
+hash = "b218f273c5e6f1575dc789b45382537adfdcad28"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "Km5xH0YL"
+version = "ysxJMopH"

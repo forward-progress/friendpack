@@ -64,6 +64,11 @@ hash = "1ec5c09edc8d27af569ef4e087f1e74cf175e43de0172316a1fffd28290d1bd9"
 metafile = true
 
 [[files]]
+file = "mods/autokey.pw.toml"
+hash = "5b8bd6d32716544de5c1482b5c111fd6aa137a541b7e4b40663af45da8eb18bc"
+metafile = true
+
+[[files]]
 file = "mods/bagels-baking.pw.toml"
 hash = "afda1bbe4155751b36e3c6f6051affa508ae30e9e8f6a8a96b6aa97441e16bf1"
 metafile = true
