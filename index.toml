@@ -299,6 +299,11 @@ hash = "b5b47d70b94e6519b798ce3f172339bba1413ee64cb08c4f0559d0d83b38bed3"
 metafile = true
 
 [[files]]
+file = "mods/mcdiscordchat.pw.toml"
+hash = "b0e7efe4dfbd9139ecdb703744ff05019da7be4e7c6ac4318ec02cfff830d412"
+metafile = true
+
+[[files]]
 file = "mods/mining-dimensions-fabric.pw.toml"
 hash = "20ce16e5f90e7232fa23a392df50cc94f34736defd77ee96bf0ba3a01c4e7798"
 metafile = true
