@@ -1,0 +1,14 @@
+name = "Multislab"
+filename = "multislab-0.1.0+1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WAZOqLAM/versions/0.1.0+1.18.2/multislab-0.1.0%2B1.18.2.jar"
+hash-format = "sha1"
+hash = "75d8bd22928a8edef8616f7afedf68e0a1bbd2a4"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "WAZOqLAM"
+version = "vCqYjTA4"

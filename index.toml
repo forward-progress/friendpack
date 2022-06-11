@@ -40,7 +40,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "83a69be727d30e2451c9a44aa59598b7935ed40d9fc87d27dfde3b048101c832"
+hash = "1f38576dabe42cc43ef2ce6f21af95b8fc32dc76b2a1fd88a37187fd84444f04"
 metafile = true
 
 [[files]]
@@ -60,7 +60,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "1ec5c09edc8d27af569ef4e087f1e74cf175e43de0172316a1fffd28290d1bd9"
+hash = "40941663c1d4317be8244540a99130474c02f2391c43d8ea87a51295bfadf4c4"
 metafile = true
 
 [[files]]
@@ -120,17 +120,22 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "7a3560c83727e3fac4807c6b2cac054569966dd1f09c5883e1ef78988568b45e"
+hash = "4ed6f98bd55bde1e076f864ba2b3918710ef2ee664ca332fd538c6ca27f280a0"
 metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "07dc8b6b90eb549554a26a111f05b54e8459dd8150f5f3c146a05c3400b7c7ff"
+hash = "5ff4e61ba19baca3337f1ff6aa31a6d906d8c30efe8af15dce3f44beb8297d5f"
 metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "64552c2dc46da34272e9b48e3fd294577f16da2570917caa9fc06ab7f848fb6c"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "e6296824efedc26529ffde9c9f462b9d2c397de447b8a8827724863ffe3654d3"
 metafile = true
 
 [[files]]
@@ -190,7 +195,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "3c3d7e7f9e0ae6a978564276c618a802d0c54c4ca098a7a897252a662ff4723a"
+hash = "cd7812412623eb47d8f612f3b276b4d86db3794496cc2a053fc709b19072afc3"
 metafile = true
 
 [[files]]
@@ -220,12 +225,12 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-chunks-fabric.pw.toml"
-hash = "318d0b2d2ed3b599c2367d8bf04678ac2cdab9278397b8553bb75d81d000987e"
+hash = "d6fe7bafcf70423e17d05f3d21a502ca31a1115db4b5e774a95df611dae248a4"
 metafile = true
 
 [[files]]
 file = "mods/ftb-library-fabric.pw.toml"
-hash = "c45625f3335196b60ed0159425645a7d439095bbd0fb21f10db01dca591948e3"
+hash = "1ccfd677a7cb6b2f5ab58f7b4b631f3c4974bf597111d3a8700036a811518b4c"
 metafile = true
 
 [[files]]
@@ -250,7 +255,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "18f7bead679737b3df1fba8fcb84ed5392cb6ff1f4d06af0b7268bca9ed573ee"
+hash = "c55eea854c87f49d13ef680b25daca33777a5ca81bfc1fc7b132f1c6b28c86c0"
 metafile = true
 
 [[files]]
@@ -324,8 +329,13 @@ hash = "32ab4cf00cde6b04c1a699789487ba55913bdd41ea46bb45748a6373e1fc9b29"
 metafile = true
 
 [[files]]
+file = "mods/multislab.pw.toml"
+hash = "1135c85fd5579903708e3148b4bd2323e12e69b0d4afef7aa0590178c695133a"
+metafile = true
+
+[[files]]
 file = "mods/nether-chest.pw.toml"
-hash = "e28aab516f05a2a8f35f11319875261ec9c447275b3fa3f7e6da8bd67324d55b"
+hash = "390676103a2f25376c12b0c5caa92490df692699791d6aa7ca9374487d726b78"
 metafile = true
 
 [[files]]
@@ -335,7 +345,7 @@ metafile = true
 
 [[files]]
 file = "mods/purpeille.pw.toml"
-hash = "f6686fc9bcc571db2ee5eed32803de4173a50c408c5f40d75f5b3071f8252ef2"
+hash = "d2d4d7e0931b0c8b5c6b71bb25f86820122d61e1d7627c4556309f4b9cd41ebf"
 metafile = true
 
 [[files]]
@@ -345,7 +355,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "d29f3453270997e009cf7dc946594053b717c2eb6981d7a2515ab287751564d7"
+hash = "75ecdb1302b2600ef780b430f71322c5332a015ea27e35689b330729df9fa71f"
 metafile = true
 
 [[files]]
@@ -370,7 +380,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "ceb2e3aef3707deb09ecacee8af38fe2b45b4f33af91f06384144d81c343cfdf"
+hash = "bd86bfc2dc17789f239be8547a155b3e6f2429df1cffa23b2bcc1952b3cd24a8"
 metafile = true
 
 [[files]]
@@ -430,7 +440,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "2140367d53fc14e3223ffed3802bd3a0c6548208458e0dd4aecd040d8b04cf4e"
+hash = "4a16b4814eec9f3cdf8abaa98bd6c5affb62da67da10c194b749c0895c69c842"
 metafile = true
 
 [[files]]
