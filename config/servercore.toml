@@ -25,19 +25,19 @@
 	# Setting this value to negative will disable this threshold.
 	chunk_save_threshold = -1
 	# (Default = 5) The amount of minutes in between auto-save intervals when /save-on is active.
-	auto_save_interval = 5
+	auto_save_interval = 3
 	# (Default = 0.5) Decides the radius in blocks that items / xp will merge at.
-	item_merge_radius = 0.5
-	xp_merge_radius = 1.0
+	item_merge_radius = 2.0
+	xp_merge_radius = 2.0
 
 # Modifies mobcaps, no-chunk-tick, simulation and view-distance depending on the MSPT.
 [dynamic]
 	# (Default = false) Enables this feature.
 	enabled = true
 	# (Default = 35) The average MSPT to target.
-	target_mspt = 43
+	target_mspt = 35
 	# (Default = 15) The amount of seconds between dynamic performance updates.
-	update_rate = 10
+	update_rate = 15
 	# (Default = 150) The amount of seconds between dynamic viewdistance updates.
 	# This value is separate from the other checks because it makes all clients reload their chunks.
 	view_distance_update_rate = 150
@@ -45,14 +45,14 @@
 	max_chunk_tick_distance = 10
 	min_chunk_tick_distance = 4
 	# (Default = [Max: 10, Min: 2]) Distance in which the world will tick, similar to no-tick-vd.
-	max_simulation_distance = 10
+	max_simulation_distance = 8
 	min_simulation_distance = 4
 	# (Default = [Max: 10, Min: 2]) Distance in which the world will render.
-	max_view_distance = 12
-	min_view_distance = 4
+	max_view_distance = 10
+	min_view_distance = 2
 	# (Default = [Max: 1.0, Min: 0.3]) Global multiplier that decides the percentage of the mobcap to be used.
-	max_mobcap = 1.8
-	min_mobcap = 0.3
+	max_mobcap = 1.3
+	min_mobcap = 0.5
 
 # Stops animals / villagers from breeding if there are too many of the same type nearby.
 [entity_limits]
@@ -95,10 +95,10 @@
 # Stops entities from ticking if they are too far away.
 [activation_range]
 	# (Default = false) Enables this feature.
-	enabled = true
+	enabled = false
 	# (Default = false) Enables vertical range checks. By default, activation ranges only work horizontally.
 	# This can greatly improve performance on taller worlds, but might break a few very specific ai-based mobfarms.
-	use_vertical_range = true
+	use_vertical_range = false
 	# (Default = true) Allows villagers to tick regardless of the activation range when panicking.
 	villager_tick_panic = true
 	# (Default = false) Allows villagers to tick regardless of the activation range.

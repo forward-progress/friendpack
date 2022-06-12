@@ -1,0 +1,9 @@
+name = "Automobility"
+filename = "automobility-0.0.17+1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://f002.backblazeb2.com/file/ForwardProgress/automobility-0.0.17%2B1.18.2_2022-06-14T20:07-04:00.jar"
+hash-format = "sha256"
+hash = "a24089bdd605accd168e60b02d8ecfbc26853ce2b113eb7b9114c4a4f046ff9a"
+mode = ""

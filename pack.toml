@@ -1,13 +1,13 @@
 name = "Friend Pack"
 author = "Nathan McCarty"
-version = "0.2.4"
+version = "0.3.0-alpha.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "18e2a5c9ed2278b5417f029a6182aab28a1e964ee5895b6237082d18969ce687"
+hash = "2656e991c2b75c5a55501c40aa912c3935bf56cbe337a223cf87d8a950c8f6bb"
 
 [versions]
 minecraft = "1.18.2"
-quilt = "0.17.0-beta.2"
+quilt = "0.17.0"

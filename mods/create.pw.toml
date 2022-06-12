@@ -1,0 +1,9 @@
+name = "Create Fabric"
+filename = "create-mc1.18.2_v0.4.1.jar"
+side = "both"
+
+[download]
+url = "https://f002.backblazeb2.com/file/ForwardProgress/create-mc1.18.2_v0.4.1_2022-06-13T23:01-04:00.jar"
+hash-format = "sha256"
+hash = "0fb8321087fb027fce4ef4d89402e58fc5ecb4b75dbdb40f42a32bdeb00ad0dd"
+mode = ""

@@ -1,5 +1,5 @@
 version = 2
-# (Default: 2) Configures the parallelism of global executor
+# (Default: 5) Configures the parallelism of global executor
 globalExecutorParallelism = "default"
 
 # Configuration for io system
@@ -21,7 +21,7 @@ globalExecutorParallelism = "default"
 	# (Default: true) Whether to allow reducing lock radius 
 	# (may cause incompatibility with other mods)
 	reduceLockRadius = true
-	# (Default: false) Whether to enable this feature
+	# (Default: true) Whether to enable this feature
 	enabled = true
 
 # Configuration for async scheduling system
@@ -54,7 +54,7 @@ globalExecutorParallelism = "default"
 	# Other values can result in crashes when starting minecraft  
 	# to prevent further damage
 	#
-	chunkStreamVersion = "default"
+	chunkStreamVersion = 3
 	# (Default: true) Whether to enable mid-tick chunk tasks  
 	# Mid-tick chunk tasks is to execute chunk tasks during server tick loop  
 	# to speed up chunk loading and generation  
@@ -66,7 +66,7 @@ globalExecutorParallelism = "default"
 	doMidTickChunkTasks = "default"
 	# (Default: true) Whether to let async chunk request no longer block server thread 
 	# (may cause incompatibility with other mods) 
-	optimizeAsyncChunkRequest = true
+	optimizeAsyncChunkRequest = "default"
 
 	# Configuration for auto-save
 	[generalOptimizations.autoSave]
@@ -77,7 +77,7 @@ globalExecutorParallelism = "default"
 		#  
 		# Please preserve quotes so this config don't break
 		#
-		mode = "ENHANCED"
+		mode = "default"
 		# (Default: 20000) Defines the delay in milliseconds between performing auto-save for a chunk  
 		# This is only used when mode is set to ENHANCED
 		#
@@ -102,9 +102,8 @@ globalExecutorParallelism = "default"
 
 	# Configuration for modifying clientside max view distance
 	[clientSide.modifyMaxVDConfig]
-		# (Default: true) Weather to enable this feature 
-		# INCOMPATIBILITY: Set to false forcefully by: bobby
-		enabled = "default"
+		# (Default: true) Weather to enable this feature
+		enabled = true
 		# (Default: 128) Max render distance allowed in game options
 		maxViewDistance = "default"
 

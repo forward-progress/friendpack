@@ -1,0 +1,14 @@
+name = "Pettable Bees"
+filename = "pettablebees-fabric-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FeZrBrtH/versions/1.1.0+fabric/pettablebees-fabric-1.1.0.jar"
+hash-format = "sha1"
+hash = "f0d9e856df98142920918e9e186defbe51a62cbb"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "FeZrBrtH"
+version = "IwSZnOM8"

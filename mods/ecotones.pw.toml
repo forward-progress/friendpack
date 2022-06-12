@@ -1,0 +1,9 @@
+name = "Ecotones"
+filename = "ecotones-0.9.0_2022.jar"
+side = "both"
+
+[download]
+url = "https://f002.backblazeb2.com/file/ForwardProgress/ecotones-0.9.0_2022-06-14T18:55-04:00.jar"
+hash-format = "sha256"
+hash = "ab159229dcc17f7d057fde67300bb2f84b5b9ee29e39664908178b4ce96fa6de"
+mode = ""

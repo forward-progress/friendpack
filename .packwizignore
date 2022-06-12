@@ -4,3 +4,4 @@ README.md
 *.sig
 *.zip
 *.mrpack
+**/.gitkeep
