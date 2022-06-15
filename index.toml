@@ -29,6 +29,10 @@ file = "config/chunky.json"
 hash = "882a1e1077d5764561da84a9404da27cd225f67951c3b08d3224b5b8b8ecc63c"
 
 [[files]]
+file = "config/emi.css"
+hash = "36223ff3f8bff97e39d4aa7bf148e353e9f3f6ec6db755fd0abb23c48f58e1e6"
+
+[[files]]
 file = "config/quilt-loading-screen.json"
 hash = "c0a604412e333d77bd4a877089ef610b2e339558815417fd5b05e123e034cf0a"
 
@@ -627,11 +631,6 @@ metafile = true
 [[files]]
 file = "mods/universal_ores.pw.toml"
 hash = "c13f5b9d98f21aa36426804da28458206d4708d00fb9ead2d4174e3293d1d078"
-metafile = true
-
-[[files]]
-file = "mods/visual-overhaul.pw.toml"
-hash = "f1164f7741fe64b8d47a2515f453e1f4e14d6d3516f83c892c0e62b45266a188"
 metafile = true
 
 [[files]]

@@ -194,5 +194,4 @@ folder.
   * [LambdaBetterGrass](https://modrinth.com/mod/lambdabettergrass)
   * [Quilt Loading Screen](https://modrinth.com/mod/quilt-loading-screen)
   * [AntiGhost](https://modrinth.com/mod/antighost)
-  * [Visual Overhaul](https://modrinth.com/mod/visual-overhaul)
   * [Falling Leaves](https://modrinth.com/mod/fallingleaves)
