@@ -58,6 +58,7 @@ folder.
   * [GeckoLib](https://www.curseforge.com/minecraft/mc-mods/geckolib)
   * [Trinkets](https://modrinth.com/mod/trinkets)
   * [Polymer](https://modrinth.com/mod/polymer)
+  * [FTB Library](https://www.curseforge.com/minecraft/mc-mods/ftb-library-fabric)
 
 ## Optimization and Graphics
 
@@ -79,6 +80,11 @@ folder.
 
   *  [Ecotones](https://github.com/SuperCoder7979/ecotones/tree/0.9.0)
   *  [Repurposed Structures](https://modrinth.com/mod/repurposed-structures-fabric)
+  *  [Mo' Structures](https://modrinth.com/mod/mo-structures)
+  *  [This Rocks!](https://modrinth.com/mod/this-rocks)
+  *  [Universal Ores](https://modrinth.com/mod/universal_ores)
+  *  [More Geodes](https://modrinth.com/mod/more-geodes)
+  *  [Stoneholm](https://modrinth.com/mod/stoneholm)
   
 ## Building
 
@@ -95,6 +101,8 @@ folder.
   * [PictureSign](https://modrinth.com/mod/picturesign)
   * [Portal Cubed](https://modrinth.com/mod/portal-cubed)
   * [Half Doors](https://modrinth.com/mod/half-doors)
+  * [Consistency+](https://modrinth.com/mod/consistencyplus)
+  * [Soul Ice](https://modrinth.com/mod/soulice)
   
 ## Food/Farming
 
@@ -107,6 +115,18 @@ folder.
   * [Bagel's Baking](https://modrinth.com/mod/bagels-baking)
   * [Sandwichable](https://modrinth.com/mod/sandwichable)
   * [Right-Click Harvest](https://modrinth.com/mod/right-click-harvest)
+  * [Farmers Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight-fabric)
+  * [Expanded Delight](https://modrinth.com/mod/expanded-delight)
+  
+## Storage and Automation
+  
+  * [AE2](https://modrinth.com/mod/ae2)
+  * [AE2 Things](https://modrinth.com/mod/ae2things)
+  * [Simple Crates](https://modrinth.com/mod/simple-crates)
+  * [Nether Chest](https://modrinth.com/mod/nether-chest)
+  * [Modern Dynamics](https://modrinth.com/mod/modern-dynamics)
+  * [cyperanner's Iron Chests](https://modrinth.com/mod/cyberanner-ironchest)
+  * [Dank Storage](https://www.curseforge.com/minecraft/mc-mods/dank-storage-fabric)
 
 ## Technology
 
@@ -118,12 +138,21 @@ folder.
   *  [TaterCart](https://modrinth.com/mod/tatercart)
   *  [Extra Generators](https://modrinth.com/mod/extra-generators)
   *  [Experience Bottler](https://modrinth.com/mod/experience-bottler)
+  *  [Logic Gates](https://modrinth.com/mod/logic-gates-fabric)
+  *  [Mining Gadgets](https://modrinth.com/mod/mining-gadgets-fabric)
+  *  [Scooters](https://modrinth.com/mod/scooters)
+  
+## Dimensions
+
+  * [Mining Dimensions](https://www.curseforge.com/minecraft/mc-mods/mining-dimensions-fabric)
   
 ## Utility Items/Blocks
 
   * [Chalk](https://modrinth.com/mod/chalk)
   * [Additional Additions](https://modrinth.com/mod/addadd)
   * [Matchbox](https://modrinth.com/mod/matchbox)
+  * [TabTPS](https://modrinth.com/mod/tabtps)
+  * [Soulbound](https://modrinth.com/mod/soulbound)
   
 ## Fun
 
@@ -152,6 +181,11 @@ folder.
   * [ClickThrough](https://modrinth.com/mod/clickthrough)
   * [Mouse Wheelie](https://modrinth.com/mod/mouse-wheelie)
   * [Sort](https://modrinth.com/mod/sort)
+  * [FTB Chunks](https://www.curseforge.com/minecraft/mc-mods/ftb-chunks-fabric)
+  * [FTB Teams](https://www.curseforge.com/minecraft/mc-mods/ftb-teams-fabric)
+  * [Litematica](https://www.curseforge.com/minecraft/mc-mods/litematica)
+  * [Simple Veinminer](https://www.curseforge.com/minecraft/mc-mods/simple-veinminer)
+  * [Universal Graves](https://modrinth.com/mod/universal-graves)
   
 ## Tweaks, Hacks, and Pure Cosmetics
 
@@ -161,3 +195,4 @@ folder.
   * [Quilt Loading Screen](https://modrinth.com/mod/quilt-loading-screen)
   * [AntiGhost](https://modrinth.com/mod/antighost)
   * [Visual Overhaul](https://modrinth.com/mod/visual-overhaul)
+  * [Falling Leaves](https://modrinth.com/mod/fallingleaves)

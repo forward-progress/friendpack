@@ -1,0 +1,14 @@
+name = "Logic Gates (Fabric)"
+filename = "logicgates-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Oml2NJFF/versions/v1.0.1/logicgates-1.0.1.jar"
+hash-format = "sha1"
+hash = "efdcd172791e151ad72f7ac4cca26a97f2db4e79"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "Oml2NJFF"
+version = "o4UBpqTM"

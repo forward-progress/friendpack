@@ -1,0 +1,14 @@
+name = "Mining Gadgets Fabric"
+filename = "mininggadgets-1.11.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fh8A9BgU/versions/1.11.0/mininggadgets-1.11.0.jar"
+hash-format = "sha1"
+hash = "282e9d77c5fc4f06cdf5560afa8119f2404812c6"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "fh8A9BgU"
+version = "FD6gNROU"
