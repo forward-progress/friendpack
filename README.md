@@ -78,6 +78,7 @@ folder.
   * [Alternate Current](https://modrinth.com/mod/alternate-current)
   * [ServerCore](https://modrinth.com/mod/servercore)
   * [Cull Less Leaves](https://modrinth.com/mod/cull-less-leaves)
+  * [Debugify](https://modrinth.com/mod/debugify)
   
 ## World gen
 
@@ -206,3 +207,5 @@ folder.
   * [Quilt Loading Screen](https://modrinth.com/mod/quilt-loading-screen)
   * [AntiGhost](https://modrinth.com/mod/antighost)
   * [Falling Leaves](https://modrinth.com/mod/fallingleaves)
+  * [Textile Backup](https://modrinth.com/mod/textile_backup)
+  

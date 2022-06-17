@@ -41,6 +41,10 @@ file = "config/servercore.toml"
 hash = "3a3654ddea9df5ac4d32d12452742c66754b156555d3e298249885426baac990"
 
 [[files]]
+file = "config/textile_backup.json5"
+hash = "288073d6d438fbea856f2be194c8d36db21bf24d5026fec82ea433f140241f52"
+
+[[files]]
 file = "config/universal-graves.json"
 hash = "7ffb608ebe618f3f23e8f363cde4f0de0d1954d04c06ec216009da17c237a33a"
 
@@ -60,7 +64,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "1f38576dabe42cc43ef2ce6f21af95b8fc32dc76b2a1fd88a37187fd84444f04"
+hash = "d83b3aa5db8b23411c46f23dde08338158aa18119d9723f66d0a8cede6ebc118"
 metafile = true
 
 [[files]]
@@ -244,6 +248,11 @@ hash = "4319357e42e227de4a456c77953609e2e32cc2cd6558777a441b586c0cfe4839"
 metafile = true
 
 [[files]]
+file = "mods/debugify.pw.toml"
+hash = "5c05e7323ec7f46a986c6cb90a7cff289a9f5edf532ebcb90667a7c4ade3e519"
+metafile = true
+
+[[files]]
 file = "mods/decorative.pw.toml"
 hash = "ea0c1b5c5ec31ee5028e02cc757935ffb188f7c66d5497c9c025b98f9a0c2d72"
 metafile = true
@@ -409,6 +418,11 @@ hash = "0bc172a97e01d18245a4c4f44390445b7eedb993f02dc78e69e658842941d432"
 metafile = true
 
 [[files]]
+file = "mods/mcdiscordchat.pw.toml"
+hash = "b0e7efe4dfbd9139ecdb703744ff05019da7be4e7c6ac4318ec02cfff830d412"
+metafile = true
+
+[[files]]
 file = "mods/mealapi.pw.toml"
 hash = "e50530e14e455bed140ae34f590fe00fa0f0c08bc5ce06404eb0a5fd1ffd7683"
 metafile = true
@@ -440,7 +454,7 @@ metafile = true
 
 [[files]]
 file = "mods/modern-dynamics.pw.toml"
-hash = "b8ff6259f3b18bb0783abab27470fcc37565dc9aac4628bcaec2f9b8ca8cb06c"
+hash = "d6f57fb60cd1f397c34d9e2acc8d30bb147e2745ce95522ef9462bec2e6f741a"
 metafile = true
 
 [[files]]
@@ -520,7 +534,7 @@ metafile = true
 
 [[files]]
 file = "mods/purpeille.pw.toml"
-hash = "d2d4d7e0931b0c8b5c6b71bb25f86820122d61e1d7627c4556309f4b9cd41ebf"
+hash = "a35853d4eeb2aa3a2529684a4b5cc339355e7dc3932e74f353ec6fbb7635b711"
 metafile = true
 
 [[files]]
@@ -651,6 +665,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "62c4c00ecc9ca4ca806808ed111578bfa358a44646c61afa31db31055bceed87"
+metafile = true
+
+[[files]]
+file = "mods/textile-backup.pw.toml"
+hash = "9478e627eb307c5d2a6fdb904add4c483870058d395f08f7ece42998797e2c52"
 metafile = true
 
 [[files]]
