@@ -1,0 +1,14 @@
+name = "Malum (Quilt)"
+filename = "malum-quilt-b1.0.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fyF1YqDS/versions/b1.0.6/malum-quilt-b1.0.6.jar"
+hash-format = "sha1"
+hash = "d6888c37fc5009aeca1d40356b1f0bb983ea73cd"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "fyF1YqDS"
+version = "rO25h90L"

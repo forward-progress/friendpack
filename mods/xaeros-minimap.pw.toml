@@ -1,13 +1,13 @@
 name = "Xaero's Minimap"
-filename = "Xaeros_Minimap_22.9.2_Fabric_1.18.2.jar"
+filename = "Xaeros_Minimap_22.9.3_Fabric_1.18.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d853321076017a6a8803a8a9b84231ab662d1ba8"
+hash = "d69803acd7ac4c4e89a8565b1f155cf2729389b8"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3819353
+file-id = 3835772
 project-id = 263420

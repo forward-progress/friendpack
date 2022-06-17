@@ -15,7 +15,7 @@ To setup this pack in PolyMC with auto-updating enable, do the following:
 1. Create a new instance
 
    Press the "Add Instance" button, choose "Vanilla" in the left sidebar, then select "Quilt" in the
-   Mod Loader menu. Use the latest quilt launcher available, `0.17.0` at time of writing.
+   Mod Loader menu. Use the latest quilt launcher available, `0.17.1-beta.2` at time of writing.
 
 2. Install `packwiz-installer-bootstrap` in the instance minecraft folder
 
@@ -59,6 +59,9 @@ folder.
   * [Trinkets](https://modrinth.com/mod/trinkets)
   * [Polymer](https://modrinth.com/mod/polymer)
   * [FTB Library](https://www.curseforge.com/minecraft/mc-mods/ftb-library-fabric)
+  * [MidnightLib](https://www.curseforge.com/minecraft/mc-mods/midnightlib)
+  * [PACUAL](https://www.curseforge.com/minecraft/mc-mods/paucal)
+  * [Cardinal Components](https://www.curseforge.com/minecraft/mc-mods/cardinal-components)
 
 ## Optimization and Graphics
 
@@ -85,6 +88,7 @@ folder.
   *  [Universal Ores](https://modrinth.com/mod/universal_ores)
   *  [More Geodes](https://modrinth.com/mod/more-geodes)
   *  [Stoneholm](https://modrinth.com/mod/stoneholm)
+  *  [Terralith](https://www.curseforge.com/minecraft/mc-mods/terralith)
   
 ## Building
 
@@ -99,10 +103,10 @@ folder.
   * [MultiSlab](https://modrinth.com/mod/multislab)
   * [Armor Stand Editor](https://www.curseforge.com/minecraft/mc-mods/armor-stand-editor)
   * [PictureSign](https://modrinth.com/mod/picturesign)
-  * [Portal Cubed](https://modrinth.com/mod/portal-cubed)
   * [Half Doors](https://modrinth.com/mod/half-doors)
   * [Consistency+](https://modrinth.com/mod/consistencyplus)
   * [Soul Ice](https://modrinth.com/mod/soulice)
+  * [ColoredWater](https://github.com/VictorKoenders/ColoredWaterMC)
   
 ## Food/Farming
 
@@ -141,6 +145,13 @@ folder.
   *  [Logic Gates](https://modrinth.com/mod/logic-gates-fabric)
   *  [Mining Gadgets](https://modrinth.com/mod/mining-gadgets-fabric)
   *  [Scooters](https://modrinth.com/mod/scooters)
+  *  [Wired Redstone](https://modrinth.com/mod/wiredredstone)
+  
+## Magic
+  * [Malum](https://modrinth.com/mod/malum-quilt)
+  * [Refined Magic](https://modrinth.com/mod/refmagic)
+  * [Archon](https://www.curseforge.com/minecraft/mc-mods/archon)
+  * [Hex Casting](https://www.curseforge.com/minecraft/mc-mods/hexcasting)
   
 ## Dimensions
 
