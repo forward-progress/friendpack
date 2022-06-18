@@ -29,6 +29,10 @@ file = "config/chunky.json"
 hash = "882a1e1077d5764561da84a9404da27cd225f67951c3b08d3224b5b8b8ecc63c"
 
 [[files]]
+file = "config/debugify.json"
+hash = "4a041300cf9ab69164efccde03d4b3eceda8d2720141083af476c9aecf128367"
+
+[[files]]
 file = "config/emi.css"
 hash = "36223ff3f8bff97e39d4aa7bf148e353e9f3f6ec6db755fd0abb23c48f58e1e6"
 
