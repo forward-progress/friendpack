@@ -78,7 +78,7 @@ metafile = true
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "5fc0700b127f0bfc9a8344664047ae065ee3d39073a6e633dc2485ac08f3626f"
+hash = "ba9209ea87234ccb97a5c6394dc3be44ce183b2b0e60cb8e0004c1abed665521"
 metafile = true
 
 [[files]]
@@ -93,7 +93,7 @@ metafile = true
 
 [[files]]
 file = "mods/arch-ex.pw.toml"
-hash = "551744ac87a0351a1034c8de38070f3141f639adf84fd2215f28d291b2e4dbe6"
+hash = "ac43dc1d242b83636bbde4309f4b3f6c1594daae9746678131646f7281c3917c"
 metafile = true
 
 [[files]]
@@ -133,7 +133,7 @@ metafile = true
 
 [[files]]
 file = "mods/bits-and-chisels.pw.toml"
-hash = "5555f1bd8b5954e6f5306a348459d0fea9c7c8eee73351dc4f56361c25200ad4"
+hash = "bddf19cd464f8d444382172da4fe44d028cf9009c631178489267a2526ce7792"
 metafile = true
 
 [[files]]
@@ -163,7 +163,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-restitched.pw.toml"
-hash = "423f3cb323804973ccd4bcfbeb7c412857598df4074dcd0fd3764b699de1f657"
+hash = "461309f22c2e31fea322541eb2fc572666956bb716e77191a06c0c9fc9f42e3a"
 metafile = true
 
 [[files]]
@@ -208,7 +208,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "d1ebda70cfbb4bd00032a833df77f5a8448e8c75c5771076f5d6517fc27069ac"
+hash = "ca922dd90b0f6cbe28c12d82d2d0c49cbd7416983ffd62aeec2240a5e3dfe588"
 metafile = true
 
 [[files]]
@@ -273,7 +273,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "8e7390a1bceeb155c5e389f2c47e2ec4b3d82b2eb865f17550e9ab425e7bc669"
+hash = "5482d79ee1142599ab0004d3e8b6a5af7a2430bfa61f57a418864979d01651ff"
 metafile = true
 
 [[files]]
@@ -353,7 +353,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "502cd535f6cda8e1e0b0cf83a785e8d8f5702f18b8902ae0c765952d8cfe0b4a"
+hash = "dd62536d072d1ba186f7b7df71b0903143433e3881a40e93f4852ecb5ea89294"
 metafile = true
 
 [[files]]
@@ -408,22 +408,17 @@ metafile = true
 
 [[files]]
 file = "mods/malum-quilt.pw.toml"
-hash = "7eec08754a2629e30a17c3e67e9ede2ace5409cbcda6bb99c4ad3ad7d560977d"
+hash = "190779900e5eabeae8e16ffda5037ffd8390fb377dd5d2d371a1b2519c65a9e9"
 metafile = true
 
 [[files]]
 file = "mods/matchbox.pw.toml"
-hash = "b87e64ed34167cc453d9f2e28ee3ec406fcdef799aa11ca9ab8793691a4ae16e"
+hash = "de30234ca835d9ec9e151322d236a348cd7ed15b2747dc4d737ea570666ca850"
 metafile = true
 
 [[files]]
 file = "mods/mbembe.pw.toml"
 hash = "0bc172a97e01d18245a4c4f44390445b7eedb993f02dc78e69e658842941d432"
-metafile = true
-
-[[files]]
-file = "mods/mcdiscordchat.pw.toml"
-hash = "b0e7efe4dfbd9139ecdb703744ff05019da7be4e7c6ac4318ec02cfff830d412"
 metafile = true
 
 [[files]]
@@ -443,7 +438,7 @@ metafile = true
 
 [[files]]
 file = "mods/mining-dimensions-fabric.pw.toml"
-hash = "20ce16e5f90e7232fa23a392df50cc94f34736defd77ee96bf0ba3a01c4e7798"
+hash = "3052bb2b5865c1d4b63deac8775a05f91b85a9ca822d7c521034417ace6224fe"
 metafile = true
 
 [[files]]
