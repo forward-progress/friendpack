@@ -461,11 +461,6 @@ hash = "667d9e683beb4739d9f2ed50aca3023428c0cd03afb9811667ef209c09283856"
 metafile = true
 
 [[files]]
-file = "mods/multislab.pw.toml"
-hash = "c6dd6df41ab9019867c0f0fe4c8cfe8760da7dccb076ff9461a959bef8ff10fe"
-metafile = true
-
-[[files]]
 file = "mods/nether-chest.pw.toml"
 hash = "390676103a2f25376c12b0c5caa92490df692699791d6aa7ca9374487d726b78"
 metafile = true
