@@ -163,7 +163,6 @@ folder.
   * [Chalk](https://modrinth.com/mod/chalk)
   * [Additional Additions](https://modrinth.com/mod/addadd)
   * [Matchbox](https://modrinth.com/mod/matchbox)
-  * [TabTPS](https://modrinth.com/mod/tabtps)
   * [Soulbound](https://modrinth.com/mod/soulbound)
   
 ## Fun

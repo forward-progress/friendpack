@@ -1,22 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/TabTPS/display-configs/default.conf"
-hash = "7cc6d1a8049c3035b603d7ce805207c2c44286d0f89ab5c52497ab364d123bab"
-
-[[files]]
-file = "config/TabTPS/main.conf"
-hash = "3086a50218a75625467ac3ff05a33687d6e07a0f1c929fc4e0d51acf6eefce5c"
-
-[[files]]
-file = "config/TabTPS/themes/default.conf"
-hash = "be849ebc154c84986260430f6c52ba9c61aad140756b589d07169c2e3e80447e"
-
-[[files]]
-file = "config/TabTPS/userdata/19d87406-b1be-4a58-93ba-14e162aed258.json"
-hash = "1968a20b3c90d81487dd259aefb3175efe265247756ac2814bfa1bb543c9aa64"
-
-[[files]]
 file = "config/bobby.conf"
 hash = "f9de450a795d1b69de013fa2e6a48cf04bed44b8e93d861ce41f599adba2b83f"
 
@@ -422,6 +406,11 @@ hash = "0bc172a97e01d18245a4c4f44390445b7eedb993f02dc78e69e658842941d432"
 metafile = true
 
 [[files]]
+file = "mods/mcdiscordchat.pw.toml"
+hash = "b0e7efe4dfbd9139ecdb703744ff05019da7be4e7c6ac4318ec02cfff830d412"
+metafile = true
+
+[[files]]
 file = "mods/mealapi.pw.toml"
 hash = "e50530e14e455bed140ae34f590fe00fa0f0c08bc5ce06404eb0a5fd1ffd7683"
 metafile = true
@@ -644,11 +633,6 @@ metafile = true
 [[files]]
 file = "mods/stoneholm.pw.toml"
 hash = "b1b6ca79f51aee17c4dac0014cae2cc0cccb6647a93c889446c142e6102ba1eb"
-metafile = true
-
-[[files]]
-file = "mods/tabtps.pw.toml"
-hash = "3bdc0de0fc407f0b3cf4380951de0909987de31dc73365e25acc67a5afa83793"
 metafile = true
 
 [[files]]
