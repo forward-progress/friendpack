@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "ff27996cf1f612781b5a3130c31ace4977d4b6d1cf375ee5ed6048830e2d53bc"
+hash = "8095a17de2aef32a3047f4229a0360cba6cd1f8d4cfb40d66845e062e85ab662"
 metafile = true
 
 [[files]]
@@ -256,11 +256,6 @@ hash = "eb9fd56a11ad4dbc33624bffc862864f1dd028078eb6b2f9aa09334340b790f1"
 metafile = true
 
 [[files]]
-file = "mods/emi.pw.toml"
-hash = "5482d79ee1142599ab0004d3e8b6a5af7a2430bfa61f57a418864979d01651ff"
-metafile = true
-
-[[files]]
 file = "mods/expanded-delight.pw.toml"
 hash = "3ad28215bdf1399ee45f665a2134072e6482171d59c8fd1ceefc89855301a83d"
 metafile = true
@@ -322,7 +317,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "0f87d98f5cf3cc4f337381fb3e59879e5c30a144a0c23bc9fcbfc89f7e9af4d3"
+hash = "d432afac1ba7a32949f5bf92ee0116737b7c6a2a152ccfe1623105e8c40b0b5e"
 metafile = true
 
 [[files]]
@@ -482,7 +477,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "79858c0794b316fb0c1b6629377b378f7ef859fff817dfdaee8e2d45bb36ffed"
+hash = "62906785f842dc0529de573ebcd614a2908c764995db37c70ad764c7366bcb08"
 metafile = true
 
 [[files]]
@@ -563,6 +558,21 @@ metafile = true
 [[files]]
 file = "mods/right-click-harvest.pw.toml"
 hash = "994f07f6d9d37e93a5187ddc65efe9a4eb09326a0d650bca16bad289dac449c3"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "05b06d2c528d2b31458646eeeb0c506f39d8bd17c37dcc3254098c0662b8363a"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-professions-rep.pw.toml"
+hash = "b2abd8427b706ce1641667f5b14c3c8a4c0d0d1081c6f935d59868b07f2bff7f"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-resources.pw.toml"
+hash = "d5b6ecde4992d8515c9fd1b2ede3b03f6fae320eb1e91c1607fd94dd58f10c1a"
 metafile = true
 
 [[files]]
@@ -672,7 +682,7 @@ metafile = true
 
 [[files]]
 file = "mods/wiredredstone.pw.toml"
-hash = "c3befb94337e27ee79c23dfd8423a31fb67b2e262b74053b783c876098419d2f"
+hash = "c5b8bf1615fa7a188bd69c97788ce19e335034654d744847d40b45fba28c940e"
 metafile = true
 
 [[files]]
