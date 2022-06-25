@@ -401,11 +401,6 @@ hash = "0bc172a97e01d18245a4c4f44390445b7eedb993f02dc78e69e658842941d432"
 metafile = true
 
 [[files]]
-file = "mods/mcdiscordchat.pw.toml"
-hash = "b0e7efe4dfbd9139ecdb703744ff05019da7be4e7c6ac4318ec02cfff830d412"
-metafile = true
-
-[[files]]
 file = "mods/mealapi.pw.toml"
 hash = "e50530e14e455bed140ae34f590fe00fa0f0c08bc5ce06404eb0a5fd1ffd7683"
 metafile = true
