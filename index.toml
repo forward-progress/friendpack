@@ -17,10 +17,6 @@ file = "config/debugify.json"
 hash = "4a041300cf9ab69164efccde03d4b3eceda8d2720141083af476c9aecf128367"
 
 [[files]]
-file = "config/emi.css"
-hash = "36223ff3f8bff97e39d4aa7bf148e353e9f3f6ec6db755fd0abb23c48f58e1e6"
-
-[[files]]
 file = "config/quilt-loading-screen.json"
 hash = "c0a604412e333d77bd4a877089ef610b2e339558815417fd5b05e123e034cf0a"
 
