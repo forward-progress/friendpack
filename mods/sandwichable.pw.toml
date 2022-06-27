@@ -1,14 +1,14 @@
 name = "Sandwichable"
-filename = "sandwichable-1.2+1.18.2.jar"
+filename = "sandwichable-1.2.1+1.18.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/5g7OOxWC/versions/1.2+1.18.2/sandwichable-1.2%2B1.18.2.jar"
+url = "https://cdn.modrinth.com/data/5g7OOxWC/versions/1.2.1+1.18.2/sandwichable-1.2.1%2B1.18.2.jar"
 hash-format = "sha1"
-hash = "92c9bbb38ce2624eabb18749b30746b638fa93b8"
+hash = "81f8312add590fbb19593022c8b42b389c625a60"
 mode = ""
 
 [update]
 [update.modrinth]
 mod-id = "5g7OOxWC"
-version = "ZwoaPnoN"
+version = "l2j21THi"

@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/arch-ex.pw.toml"
-hash = "ac43dc1d242b83636bbde4309f4b3f6c1594daae9746678131646f7281c3917c"
+hash = "4d8093103f6ac7e19e21720aa3a64278c11eebe0f43d2123728b4cd517afb396"
 metafile = true
 
 [[files]]
@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/auroras.pw.toml"
-hash = "82dbf2696b2e99dddf5becf25f0e03f21831341f02096e642622b772e2adc550"
+hash = "8e24458e33ef25f1dfa90319130cd748383637a7c03fa77ab3a9088f815f626a"
 metafile = true
 
 [[files]]
@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/botania.pw.toml"
-hash = "5e7d81822935658460f48ba606a0071367c6b034be460ccd8b3f6b63df8188e6"
+hash = "41bb864ca1d015214b29c6e445009f59fb170bed9293a7d219d92706e00d29d1"
 metafile = true
 
 [[files]]
@@ -272,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "f247d76f0b745b541b5f355e57ecf9b1da73eb13910759d630380ed54e1eef34"
+hash = "674b69231bf37773aadd3a03e40288abbf0ea312b6a662b200db488b8942bbd9"
 metafile = true
 
 [[files]]
@@ -317,7 +317,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "d432afac1ba7a32949f5bf92ee0116737b7c6a2a152ccfe1623105e8c40b0b5e"
+hash = "6d1e9a6628f25c3c20e853fa085f2e7679fe10d7117ad7a6593e1c1016f1c570"
 metafile = true
 
 [[files]]
@@ -327,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexcasting.pw.toml"
-hash = "9d7472cb1465125ff5312870eb16fc786422e1a19507a84d993602183940377b"
+hash = "f1696e934e3c2fd7b7e50b79464162c8c94eb92943417ee46f0ffecdf1d86354"
 metafile = true
 
 [[files]]
@@ -387,7 +387,7 @@ metafile = true
 
 [[files]]
 file = "mods/malum-quilt.pw.toml"
-hash = "190779900e5eabeae8e16ffda5037ffd8390fb377dd5d2d371a1b2519c65a9e9"
+hash = "743caa5da9ed5ccd0d41d24fa4e006dd1835ddaff38cb56e4367b2f38100452e"
 metafile = true
 
 [[files]]
@@ -407,7 +407,7 @@ metafile = true
 
 [[files]]
 file = "mods/mealapi.pw.toml"
-hash = "e50530e14e455bed140ae34f590fe00fa0f0c08bc5ce06404eb0a5fd1ffd7683"
+hash = "4628ac5fb31672dd23f7bc521d7e6fa7f8c12606b782b51bd4abd8dde0f834a8"
 metafile = true
 
 [[files]]
@@ -442,7 +442,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "6dc27377674c79509779c7b17d7db80748d9636c5d639b0e5f67f90b45f1a8e5"
+hash = "d82c06cc5c3e67835f000f07aff22e3aa96bcf1b08c0a86c0a15bb87e7a807a8"
 metafile = true
 
 [[files]]
@@ -452,7 +452,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-wheelie.pw.toml"
-hash = "667d9e683beb4739d9f2ed50aca3023428c0cd03afb9811667ef209c09283856"
+hash = "0e84e9b07393fbdc2c2a39495a35bfc57b398c4cf22ff79c3002d657082b7cea"
 metafile = true
 
 [[files]]
@@ -476,8 +476,8 @@ hash = "7459aae0be7bc9fe753bc50ddbfdd3f70fed3bfe43b5e0d8d57875ee24422c9d"
 metafile = true
 
 [[files]]
-file = "mods/patchouli.pw.toml"
-hash = "62906785f842dc0529de573ebcd614a2908c764995db37c70ad764c7366bcb08"
+file = "mods/patchouli-fabric.pw.toml"
+hash = "b3625f171b02ba1264bd281a8ab36708f68501f40cdfdb2c703e13c188d8324e"
 metafile = true
 
 [[files]]
@@ -507,7 +507,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "616ef63d544f8897ba5501d6bd3e7995de29b5b56c78f8f0f4f95e7ba728edec"
+hash = "a669267ad3c5f14404ae952210aea04b2045a44c5684c2e4f654ce34d3f2a212"
 metafile = true
 
 [[files]]
@@ -562,7 +562,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "05b06d2c528d2b31458646eeeb0c506f39d8bd17c37dcc3254098c0662b8363a"
+hash = "f8ccb8a2b152b707ae6cc1c63dbb5d5c189840bf391b4b83f952c99145e88627"
 metafile = true
 
 [[files]]
@@ -577,7 +577,7 @@ metafile = true
 
 [[files]]
 file = "mods/sandwichable.pw.toml"
-hash = "38da2b18421ee5d9163c6fb693f5c67e764af13f20d2550d51172548e3141c67"
+hash = "8a7dc5354730bf32647c24b6342c2e13b894f3ad66351c3edad416cf99068048"
 metafile = true
 
 [[files]]
@@ -657,7 +657,7 @@ metafile = true
 
 [[files]]
 file = "mods/textile-backup.pw.toml"
-hash = "9478e627eb307c5d2a6fdb904add4c483870058d395f08f7ece42998797e2c52"
+hash = "730e2dbcb2d930fb9b84c99f31242e97d7cbf1ad80cd91ab7f9132b4890cb79b"
 metafile = true
 
 [[files]]
@@ -682,7 +682,7 @@ metafile = true
 
 [[files]]
 file = "mods/wiredredstone.pw.toml"
-hash = "c5b8bf1615fa7a188bd69c97788ce19e335034654d744847d40b45fba28c940e"
+hash = "7647e03bc9dc40df3d96534d430620ca26c59ee5878fa1d8192eca8979d20213"
 metafile = true
 
 [[files]]
@@ -692,10 +692,10 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "84b36af19104b71e42a6de8c94200629d297be1522ab7a8d322ef38bb7ac428e"
+hash = "c985086e33576afd91d197950ddec8cbb9fc6002dab937d24a60ba315f6c390b"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "5e034cb854667958fbe8c1f65e40738102fbe89b664e9fbadc9bd4f9849e685e"
+hash = "af8071575c7163a5cc8aa51237098a47d29487edfecda69ef07c03433c37d928"
 metafile = true
