@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/arch-ex.pw.toml"
-hash = "4d8093103f6ac7e19e21720aa3a64278c11eebe0f43d2123728b4cd517afb396"
+hash = "c525222e714069253a8902103dc98de6058adb5b348e678b5ef9fcf6219ec613"
 metafile = true
 
 [[files]]
@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/bagels-baking.pw.toml"
-hash = "afda1bbe4155751b36e3c6f6051affa508ae30e9e8f6a8a96b6aa97441e16bf1"
+hash = "bb276652a193bfe8cf6c0aefcf4c76b362263ff7e1f70f65c100527115bb8900"
 metafile = true
 
 [[files]]
@@ -232,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/dawn.pw.toml"
-hash = "4319357e42e227de4a456c77953609e2e32cc2cd6558777a441b586c0cfe4839"
+hash = "ce5e092e861d5fdd12612dcf88489b01429f43c87fe83c9134de5c30c32fae86"
 metafile = true
 
 [[files]]
@@ -562,7 +562,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "f8ccb8a2b152b707ae6cc1c63dbb5d5c189840bf391b4b83f952c99145e88627"
+hash = "e9e611d1d415a3023065b986563f7c0a2deb3179994b75683978aec0f651b3ee"
 metafile = true
 
 [[files]]
@@ -577,7 +577,7 @@ metafile = true
 
 [[files]]
 file = "mods/sandwichable.pw.toml"
-hash = "8a7dc5354730bf32647c24b6342c2e13b894f3ad66351c3edad416cf99068048"
+hash = "c470277ad1b6c28cfeafb4e091e568e50ae27df19392ae0fd256b804951f3e9f"
 metafile = true
 
 [[files]]
@@ -653,11 +653,6 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "62c4c00ecc9ca4ca806808ed111578bfa358a44646c61afa31db31055bceed87"
-metafile = true
-
-[[files]]
-file = "mods/textile-backup.pw.toml"
-hash = "730e2dbcb2d930fb9b84c99f31242e97d7cbf1ad80cd91ab7f9132b4890cb79b"
 metafile = true
 
 [[files]]
