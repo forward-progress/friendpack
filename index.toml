@@ -486,11 +486,6 @@ hash = "b07aad3095c15a09447c7ed156f66d89af6d834e2fe93011a4a883634f245350"
 metafile = true
 
 [[files]]
-file = "mods/pettable-bees-fabric.pw.toml"
-hash = "7e4d020198c8145266b62d55f65e16654f393c06352598024fb4d74c93ee9de6"
-metafile = true
-
-[[files]]
 file = "mods/phonos.pw.toml"
 hash = "9aadfa3097e9e11f4f6d5b354007c614af292d1fcbf689736ba86ba2264ac9b0"
 metafile = true
