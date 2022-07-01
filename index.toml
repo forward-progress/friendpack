@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/arch-ex.pw.toml"
-hash = "1f41b07e2705509801b2a30708de086f04dbb1fd8e6fbf2bf589109ade4f9875"
+hash = "c525222e714069253a8902103dc98de6058adb5b348e678b5ef9fcf6219ec613"
 metafile = true
 
 [[files]]
@@ -317,7 +317,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "59948a45e0fe63daee394c4707081e2f01b6291dae9336e5b7c2a46dc59ba16e"
+hash = "6d1e9a6628f25c3c20e853fa085f2e7679fe10d7117ad7a6593e1c1016f1c570"
 metafile = true
 
 [[files]]
@@ -402,7 +402,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcdiscordchat.pw.toml"
-hash = "86af4be3ab4f3a5c6b95c70329807931752743661bfe70514fd9b7458611e9af"
+hash = "b0e7efe4dfbd9139ecdb703744ff05019da7be4e7c6ac4318ec02cfff830d412"
 metafile = true
 
 [[files]]
@@ -502,7 +502,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "75ca28e134847fcd6ea835e35c36f9a57ca4ccccd618bafba570524d3c8142f2"
+hash = "a669267ad3c5f14404ae952210aea04b2045a44c5684c2e4f654ce34d3f2a212"
 metafile = true
 
 [[files]]
@@ -617,7 +617,7 @@ metafile = true
 
 [[files]]
 file = "mods/soulice.pw.toml"
-hash = "701e0aca0575b6cd8f7e084517f01f456c7be0484ffc657affcc3aa6610559d7"
+hash = "e304fbc6b6b75b064eae356a5b234f2ffe32c1320e8b41c16eb2dd4d4c1a1181"
 metafile = true
 
 [[files]]
@@ -672,7 +672,7 @@ metafile = true
 
 [[files]]
 file = "mods/wiredredstone.pw.toml"
-hash = "6ed790035c4619588147bf06c3a57537ff0e9591d2f83cd9c378e450197590ae"
+hash = "7647e03bc9dc40df3d96534d430620ca26c59ee5878fa1d8192eca8979d20213"
 metafile = true
 
 [[files]]
