@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/arch-ex.pw.toml"
-hash = "c525222e714069253a8902103dc98de6058adb5b348e678b5ef9fcf6219ec613"
+hash = "1f41b07e2705509801b2a30708de086f04dbb1fd8e6fbf2bf589109ade4f9875"
 metafile = true
 
 [[files]]
