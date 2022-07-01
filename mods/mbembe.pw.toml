@@ -1,0 +1,13 @@
+name = "Mbembe"
+filename = "mbembe-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6ec896dd45178023ebcbfa4c8a0296cb2d71b4e7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3727614
+project-id = 572867
