@@ -396,11 +396,6 @@ hash = "de30234ca835d9ec9e151322d236a348cd7ed15b2747dc4d737ea570666ca850"
 metafile = true
 
 [[files]]
-file = "mods/mbembe.pw.toml"
-hash = "0bc172a97e01d18245a4c4f44390445b7eedb993f02dc78e69e658842941d432"
-metafile = true
-
-[[files]]
 file = "mods/mcdiscordchat.pw.toml"
 hash = "86af4be3ab4f3a5c6b95c70329807931752743661bfe70514fd9b7458611e9af"
 metafile = true
