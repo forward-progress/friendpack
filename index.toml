@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2things.pw.toml"
-hash = "bb0fd54766a42e6e5da5c256e020485b5d459113384f8cb56b8ab182d14095fd"
+hash = "7790d12f9a943ccf630520d2ccd8d46acd6d10bcde75f74383b0eb9e54143aa3"
 metafile = true
 
 [[files]]
@@ -77,12 +77,12 @@ metafile = true
 
 [[files]]
 file = "mods/arch-ex.pw.toml"
-hash = "1f41b07e2705509801b2a30708de086f04dbb1fd8e6fbf2bf589109ade4f9875"
+hash = "d050c7a7a4a7c7771eef2ae98195c13b72abfc67b99d74e0112e384b4a58d1cb"
 metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "8095a17de2aef32a3047f4229a0360cba6cd1f8d4cfb40d66845e062e85ab662"
+hash = "2fdcd8eb8a2e5ae247fad3b5a44d4a3cdf9228e999ecfd5949648d5d1554f345"
 metafile = true
 
 [[files]]
@@ -317,7 +317,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "6d1e9a6628f25c3c20e853fa085f2e7679fe10d7117ad7a6593e1c1016f1c570"
+hash = "59948a45e0fe63daee394c4707081e2f01b6291dae9336e5b7c2a46dc59ba16e"
 metafile = true
 
 [[files]]
@@ -387,7 +387,7 @@ metafile = true
 
 [[files]]
 file = "mods/malum-quilt.pw.toml"
-hash = "743caa5da9ed5ccd0d41d24fa4e006dd1835ddaff38cb56e4367b2f38100452e"
+hash = "58168b0555e2ff4977a482707eb58fe2c38fd10322ba7a27b00b2866e19a481e"
 metafile = true
 
 [[files]]
@@ -396,13 +396,8 @@ hash = "de30234ca835d9ec9e151322d236a348cd7ed15b2747dc4d737ea570666ca850"
 metafile = true
 
 [[files]]
-file = "mods/mbembe.pw.toml"
-hash = "0bc172a97e01d18245a4c4f44390445b7eedb993f02dc78e69e658842941d432"
-metafile = true
-
-[[files]]
 file = "mods/mcdiscordchat.pw.toml"
-hash = "b0e7efe4dfbd9139ecdb703744ff05019da7be4e7c6ac4318ec02cfff830d412"
+hash = "fa579c0b1882754ae587c3653e74c8914d556398530571f3391cfa8a82a8e33e"
 metafile = true
 
 [[files]]
@@ -437,7 +432,7 @@ metafile = true
 
 [[files]]
 file = "mods/modern-dynamics.pw.toml"
-hash = "d6f57fb60cd1f397c34d9e2acc8d30bb147e2745ce95522ef9462bec2e6f741a"
+hash = "4784e46f9a7869f1ae3526e6f48c85514826895e9d2ca8b53171f12e248781da"
 metafile = true
 
 [[files]]
@@ -502,7 +497,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "a669267ad3c5f14404ae952210aea04b2045a44c5684c2e4f654ce34d3f2a212"
+hash = "75ca28e134847fcd6ea835e35c36f9a57ca4ccccd618bafba570524d3c8142f2"
 metafile = true
 
 [[files]]
@@ -557,7 +552,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "f8ccb8a2b152b707ae6cc1c63dbb5d5c189840bf391b4b83f952c99145e88627"
+hash = "e9e611d1d415a3023065b986563f7c0a2deb3179994b75683978aec0f651b3ee"
 metafile = true
 
 [[files]]
@@ -617,7 +612,7 @@ metafile = true
 
 [[files]]
 file = "mods/soulice.pw.toml"
-hash = "e304fbc6b6b75b064eae356a5b234f2ffe32c1320e8b41c16eb2dd4d4c1a1181"
+hash = "701e0aca0575b6cd8f7e084517f01f456c7be0484ffc657affcc3aa6610559d7"
 metafile = true
 
 [[files]]
@@ -667,12 +662,12 @@ metafile = true
 
 [[files]]
 file = "mods/universal_ores.pw.toml"
-hash = "c13f5b9d98f21aa36426804da28458206d4708d00fb9ead2d4174e3293d1d078"
+hash = "2964bd3411bc041dcb20fabc1a33938b5dd8a698402e20407c876986d2481247"
 metafile = true
 
 [[files]]
 file = "mods/wiredredstone.pw.toml"
-hash = "7647e03bc9dc40df3d96534d430620ca26c59ee5878fa1d8192eca8979d20213"
+hash = "6ed790035c4619588147bf06c3a57537ff0e9591d2f83cd9c378e450197590ae"
 metafile = true
 
 [[files]]
