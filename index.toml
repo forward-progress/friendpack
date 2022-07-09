@@ -372,7 +372,7 @@ metafile = true
 
 [[files]]
 file = "mods/logic-gates-fabric.pw.toml"
-hash = "d25a8778d832c0a8ac60e28b94dc29b372e2d33a00658c6df8232fb34ffcfc67"
+hash = "f91e38f8898ad941b7f631611afe47832777f4ecb582617b08906f1b72371b3c"
 metafile = true
 
 [[files]]
@@ -397,7 +397,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcdiscordchat.pw.toml"
-hash = "fa579c0b1882754ae587c3653e74c8914d556398530571f3391cfa8a82a8e33e"
+hash = "5cd826ab94e96aaf2cb6fea0d1a323fc4469791d7d4a7292c08a16c90cb6894c"
 metafile = true
 
 [[files]]
