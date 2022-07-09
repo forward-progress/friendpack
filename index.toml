@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "d83b3aa5db8b23411c46f23dde08338158aa18119d9723f66d0a8cede6ebc118"
+hash = "7854bfed9702edf6733199d7c13eb119eecac715542ed991e8b6dde3f9c05cd0"
 metafile = true
 
 [[files]]
@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/arch-ex.pw.toml"
-hash = "d050c7a7a4a7c7771eef2ae98195c13b72abfc67b99d74e0112e384b4a58d1cb"
+hash = "e44d0ff0c823e9df28cebce2562ea9086677357531c79ec47dd804699a42569f"
 metafile = true
 
 [[files]]
@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/archon.pw.toml"
-hash = "d0d32fd6ff8f306994ef3c1b89a11ad3c9b4bc96caec20319a42e4375f4f3beb"
+hash = "c977ad98c1ea89483425a93945a034fa6474d0bfc5f9b3b1e95cddc815aa92a9"
 metafile = true
 
 [[files]]
@@ -322,7 +322,7 @@ metafile = true
 
 [[files]]
 file = "mods/half-doors.pw.toml"
-hash = "cec84104a9fd471793bc961bf791e56d6979bf546ccc80e861f4cb5f35941a13"
+hash = "933bae280bc8e1d572b3052f7912aa50929bc7e30be6a774bee0aba678babdc3"
 metafile = true
 
 [[files]]
@@ -552,7 +552,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "e9e611d1d415a3023065b986563f7c0a2deb3179994b75683978aec0f651b3ee"
+hash = "55c91535c1f07a0718aee9b23cc355df43aeb5003a3d57fc3e26fd6c72f5adb6"
 metafile = true
 
 [[files]]
@@ -677,10 +677,10 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "c985086e33576afd91d197950ddec8cbb9fc6002dab937d24a60ba315f6c390b"
+hash = "6fedc69a6d5197740f8b33613cf1ba85410cb4ca084f68e4d78ed57a36caa682"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "af8071575c7163a5cc8aa51237098a47d29487edfecda69ef07c03433c37d928"
+hash = "33becc0f8373784b04f828987e43394775cb3f5fe99ae177b614e288b731ece1"
 metafile = true

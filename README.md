@@ -15,7 +15,7 @@ To setup this pack in PolyMC with auto-updating enable, do the following:
 1. Create a new instance
 
    Press the "Add Instance" button, choose "Vanilla" in the left sidebar, then select "Quilt" in the
-   Mod Loader menu. Use the latest quilt launcher available, `0.17.1-beta.2` at time of writing.
+   Mod Loader menu. Use the latest quilt launcher available, `0.17.1-beta.6` at time of writing.
 
 2. Install `packwiz-installer-bootstrap` in the instance minecraft folder
 
